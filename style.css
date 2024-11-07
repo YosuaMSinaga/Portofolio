@@ -1,0 +1,30 @@
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.social-icon {
+    width: 40px;
+    height: 40px;
+    transition: transform 0.3s ease;
+}
+
+.social-icon:hover {
+    transform: scale(1.1);
+}
+/* CSS untuk About Section */
+#about p {
+    text-align: justify;
+    font-size: 19px;
+    line-height: 1.6;
+    color: #171717;
+}
+#projects .card-text {
+    text-align: justify;
+    color: #171717;
+    font-size: 17px;
+}
+
+
